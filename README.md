@@ -1,2 +1,3 @@
 # programming_2026
-indescribable
+undescribable
+# lecture_2026 for begginers
